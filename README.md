@@ -31,16 +31,16 @@ https://research.unsw.edu.au/projects/unsw-nb15-dataset
 ## Results
 
 <img src="train_accuracy_line_graph.jpg" width="750">
-<p align="center">Training Accuracy of all Algorithms</p>
+<div align="center">Training Accuracy of all Algorithms</div>
 
 <img src="test_accuracy_line_graph.jpg" width="750">
-<p align="center">Testing Accuracy of all Algorithms</p>
+<div align="center">Testing Accuracy of all Algorithms</div>
 
 <img src="./best_train_accuracy_line_graph.jpg" width="750">  
-<p align="center">Models of highest training accuracy of each type</p>
+<div align="center">Models of highest training accuracy of each type</div>
 
 <img src="./best_test_accuracy_line_graph.jpg" width="750">  
-<p align="center">Models of highest testing accuracy of each type</p> 
+<div align="center">Models of highest testing accuracy of each type</div> 
 
 
 
