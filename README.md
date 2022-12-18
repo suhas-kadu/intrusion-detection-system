@@ -40,5 +40,16 @@ https://research.unsw.edu.au/projects/unsw-nb15-dataset
 <p align="center">Models of highest training accuracy of each type</p>
 
 <img src="./best_test_accuracy_line_graph.jpg" width="750">  
-<p align="center">Models of highest testing accuracy of each type</p>
+<p align="center">Models of highest testing accuracy of each type</p> 
+
+
+
+## Contributers
+
+| Name          | E-mail |
+| ------------- | ------------- |
+| Suhas Kadu  |  suhas.kadu19@vit.edu   |
+| Kushal Kela  | kushal.kela19@vit.edu  |
+| Saket Kolpe  | saket.kolpe19@vit.edu   |
+| Chetan Lohkare  | chetan.lohkare19@vit.edu  |
 
