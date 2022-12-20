@@ -30,6 +30,7 @@ https://research.unsw.edu.au/projects/unsw-nb15-dataset
 
 ## Results
 
+<div align="center">
 <img src="./training_accuracy_graph.png" width="500">
 <p align="center">Training Accuracy of all Algorithms</p>
 
@@ -41,7 +42,7 @@ https://research.unsw.edu.au/projects/unsw-nb15-dataset
 
 <img src="./best_test_accuracy_graph.png" width="500">  
 <p align="center">Models of highest testing accuracy of each type</p> 
-
+</div>
 
 
 ## Contributers
